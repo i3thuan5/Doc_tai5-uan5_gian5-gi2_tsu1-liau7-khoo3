@@ -1,7 +1,7 @@
 {
   "gitbook": "3.2.2",
   "title": "臺灣言語資料庫",
-  "plugins": ["edit-link","github", "gist"],
+  "plugins": ["edit-link","github"],
   "pluginsConfig": {
     "edit-link": {
       "base": "https://github.com/i3thuan5/Doc_tai5-uan5_gian5-gi2_tsu1-liau7-khoo3/tree/master",
